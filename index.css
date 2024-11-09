@@ -4,8 +4,8 @@ body{
 .container{
     margin:0px auto 0px auto;
     background-color:rgb(161, 161, 161);
-    height:100%;
-    width: 50%;
+    height:90%;
+    width: 90%;
     border:5px solid rgb(255, 0, 0);
     padding:15px;
     font-size: 18px;
@@ -29,7 +29,7 @@ img{
 }
 #tk{
     height:30px;
-    width:80px;
+    width:90px;
     background-color: brown;
     border-radius: 20px;
     align-content: center;
@@ -89,7 +89,7 @@ body:hover{
 }
 #tk:hover{
     height:35px;
-    width:90px;
+    width:100px;
     background-color: brown;
     border-radius: 30px;
     align-content: center;
